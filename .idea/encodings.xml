@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/account-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scg-flux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scg-flux/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scg-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scg-mvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wms/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+    port: 16002
+spring:
+    application:
+        name: platform
+    cloud:
+        nacos:
+            server-addr: http://101.34.207.33:12222
+            username: nacos
+            password: Rtt0312*
+            discovery:
+                namespace: dev
+                group: shop
+                enabled: true

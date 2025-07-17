@@ -1,0 +1,11 @@
+server:
+    port: 17001
+spring:
+    cloud:
+        gateway:
+            mvc:
+                routes:
+                    -   id: after_route
+                        uri: https://example.org
+                        predicates:
+                            - After=2017-01-20T17:42:47.789-07:00[America/Denver]

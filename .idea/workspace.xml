@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b41bd3d9-15d2-4263-80f5-48424c63ace9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/NacosDiscoveryProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/registry/NacosAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/registry/NacosRegistration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/registry/NacosServiceRegistry.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/registry/NacosServiceRegistryAutoConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-core/1.1.30/reactor-netty-core-1.1.30.jar!/reactor/netty/ConnectionObserver.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-core/1.1.30/reactor-netty-core-1.1.30.jar!/reactor/netty/DisposableChannel.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-core/1.1.30/reactor-netty-core-1.1.30.jar!/reactor/netty/transport/ServerTransport.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-core/1.1.30/reactor-netty-core-1.1.30.jar!/reactor/netty/transport/Transport.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-http/1.1.30/reactor-netty-http-1.1.30.jar!/reactor/netty/http/server/HttpServer.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-http/1.1.30/reactor-netty-http-1.1.30.jar!/reactor/netty/http/server/HttpServerOperations.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/netty/reactor-netty-http/1.1.30/reactor-netty-http-1.1.30.jar!/reactor/netty/http/server/HttpServerState.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/reactor-core/3.6.17/reactor-core-3.6.17-sources.jar!/reactor/core/publisher/FluxMergeSequential.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/io/projectreactor/reactor-core/3.6.17/reactor-core-3.6.17.jar!/reactor/core/publisher/Mono.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot-actuator/3.3.12/spring-boot-actuator-3.3.12.jar!/org/springframework/boot/actuate/endpoint/web/reactive/AbstractWebFluxEndpointHandlerMapping.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot-actuator/3.3.12/spring-boot-actuator-3.3.12.jar!/org/springframework/boot/actuate/endpoint/web/reactive/AdditionalHealthEndpointPathsWebFluxHandlerMapping.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot-autoconfigure/3.3.12/spring-boot-autoconfigure-3.3.12.jar!/org/springframework/boot/autoconfigure/rsocket/RSocketWebSocketNettyRouteProvider.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot-autoconfigure/3.3.12/spring-boot-autoconfigure-3.3.12.jar!/org/springframework/boot/autoconfigure/web/reactive/HttpHandlerAutoConfiguration.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/embedded/netty/NettyReactiveWebServerFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/embedded/netty/NettyRouteProvider.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/embedded/netty/NettyWebServer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/reactive/context/ReactiveWebServerApplicationContext.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/reactive/context/WebServerManager.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/reactive/context/WebServerStartStopLifecycle.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/boot/spring-boot/3.3.12/spring-boot-3.3.12-sources.jar!/org/springframework/boot/web/server/WebServer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-commons/4.1.5/spring-cloud-commons-4.1.5-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-commons/4.1.5/spring-cloud-commons-4.1.5-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-commons/4.1.5/spring-cloud-commons-4.1.5-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerUriTools.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-commons/4.1.5/spring-cloud-commons-4.1.5-sources.jar!/org/springframework/cloud/client/serviceregistry/AbstractAutoServiceRegistration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-commons/4.1.5/spring-cloud-commons-4.1.5-sources.jar!/org/springframework/cloud/client/serviceregistry/ServiceRegistry.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/config/GatewayAutoConfiguration.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/config/GatewayProperties.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/config/PropertiesRouteDefinitionLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/discovery/DiscoveryClientRouteDefinitionLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/ForwardRoutingFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/GlobalFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/LoadBalancerServiceInstanceCookieFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/NettyWriteResponseFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/ReactiveLoadBalancerClientFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/RouteToRequestUrlFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/WebsocketRoutingFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/factory/cache/LocalResponseCacheGatewayFilterFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/factory/cache/ResponseCacheGatewayFilter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/handler/FilteringWebHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/handler/RoutePredicateHandlerMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/handler/predicate/PathRoutePredicateFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/handler/predicate/RoutePredicateFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/CachingRouteLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/CompositeRouteDefinitionLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/CompositeRouteLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/InMemoryRouteDefinitionRepository.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/RouteDefinitionLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRepository.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/RouteDefinitionWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/RouteLocator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/builder/Buildable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/builder/PredicateSpec.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/route/builder/RouteLocatorBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/support/ServerWebExchangeUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/http/server/reactive/ReactorHttpHandlerAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/http/server/reactive/ReactorServerHttpRequest.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/web/bind/annotation/ModelAttribute.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/web/cors/reactive/CorsUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/web/server/adapter/HttpWebHandlerAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/web/server/adapter/WebHttpHandlerBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/DispatchExceptionHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/DispatcherHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/HandlerAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/HandlerMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/HandlerResultHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/function/server/support/HandlerFunctionAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/function/server/support/RouterFunctionMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/handler/AbstractHandlerMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/handler/AbstractUrlHandlerMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/SimpleHandlerAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/AbstractHandlerMethodMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/RequestMappingInfoHandlerMapping.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/annotation/RequestMappingHandlerAdapter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/annotation/ResponseBodyResultHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/annotation/ResponseEntityResultHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/view/ViewResolutionResultHandler.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/socket/server/support/WebSocketHandlerAdapter.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$USER_HOME$/Software/maven/apache-maven-3.8.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;65ad89f7&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2yLih6fD8xZmwEzVx4I1KVUQfxB" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BeanTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FluxTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderServiceTest.testPlaceOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.platform [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-cloud-alibaba-2023 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-cloud-alibaba-2023 [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.spring-cloud-alibaba-2023 [org.apache.maven.plugins:maven-install-plugin:2.4:install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GatewayApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.GatewayFluxApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.GatewayFluxApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.PlatformApplication.executor&quot;: &quot;Run&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (2)&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20986688&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.27087575&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/src/main/resources/META-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.rtt.order.dao" />
+      <recent name="cn.rtt.order.mapper" />
+      <recent name="cn.rtt.core.util" />
+      <recent name="cn.rtt.core.mybatis.domain" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FluxTest">
+    <configuration name="BeanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.rtt.scg.flux.example.BeanTest" />
+      <module name="scg-flux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.rtt.scg.flux.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FluxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.rtt.scg.flux.example.FluxTest" />
+      <module name="scg-flux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.rtt.scg.flux.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.rtt.scg.flux.example.MonoTest" />
+      <module name="scg-flux" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.rtt.scg.flux.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayFluxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="scg-flux" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.rtt.scg.flux.GatewayFluxApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.rtt.scg.flux.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.rtt.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="platform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.rtt.platform.PlatformApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.rtt.platform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MonoTest" />
+      <item itemvalue="Application.BeanTest" />
+      <item itemvalue="Application.FluxTest" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.PlatformApplication" />
+      <item itemvalue="Spring Boot.GatewayFluxApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FluxTest" />
+        <item itemvalue="Spring Boot.GatewayFluxApplication" />
+        <item itemvalue="Spring Boot.PlatformApplication" />
+        <item itemvalue="Application.MonoTest" />
+        <item itemvalue="Application.BeanTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Physical" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41bd3d9-15d2-4263-80f5-48424c63ace9" name="Changes" comment="" />
+      <created>1749620373442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749620373442</updated>
+      <workItem from="1749620374710" duration="5104000" />
+      <workItem from="1749688849416" duration="550000" />
+      <workItem from="1749689420961" duration="759000" />
+      <workItem from="1749690794571" duration="20388000" />
+      <workItem from="1749780567484" duration="13839000" />
+      <workItem from="1750036689151" duration="15530000" />
+      <workItem from="1750121467756" duration="12963000" />
+      <workItem from="1750207063390" duration="3463000" />
+      <workItem from="1750293530441" duration="442000" />
+      <workItem from="1750319738885" duration="3910000" />
+      <workItem from="1750381178234" duration="1279000" />
+      <workItem from="1750639669516" duration="17819000" />
+      <workItem from="1750725525638" duration="8831000" />
+      <workItem from="1750837362281" duration="2455000" />
+      <workItem from="1750914610354" duration="17511000" />
+      <workItem from="1751273007074" duration="1251000" />
+      <workItem from="1751331557635" duration="6408000" />
+      <workItem from="1751347864863" duration="7880000" />
+      <workItem from="1751358367949" duration="359000" />
+      <workItem from="1751358753155" duration="1233000" />
+      <workItem from="1751416791658" duration="7119000" />
+      <workItem from="1751503116648" duration="122000" />
+      <workItem from="1751508108409" duration="193000" />
+      <workItem from="1751590839968" duration="7443000" />
+      <workItem from="1752025202525" duration="8828000" />
+      <workItem from="1752125175807" duration="2704000" />
+      <workItem from="1752194687684" duration="17581000" />
+      <workItem from="1752454290681" duration="16206000" />
+      <workItem from="1752540719300" duration="18787000" />
+      <workItem from="1752626628906" duration="10640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20.jar!/org/springframework/web/reactive/DispatcherHandler.class</url>
+          <line>65</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20-sources.jar!/org/springframework/web/server/adapter/AbstractReactiveWebInitializer.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/function/server/support/RouterFunctionMapping.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-discovery/2023.0.3.3/spring-cloud-starter-alibaba-nacos-discovery-2023.0.3.3-sources.jar!/com/alibaba/cloud/nacos/NacosDiscoveryProperties.java</url>
+          <line>687</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/DispatcherHandler.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/handler/AbstractUrlHandlerMapping.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/result/method/AbstractHandlerMethodMapping.java</url>
+          <line>292</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/spring-webflux/6.1.20/spring-webflux-6.1.20-sources.jar!/org/springframework/web/reactive/function/server/support/RouterFunctionMapping.java</url>
+          <line>153</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/scg-flux/src/test/java/cn/rtt/scg/flux/example/BeanTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Software/maven/repository/org/springframework/cloud/spring-cloud-gateway-server/4.1.6/spring-cloud-gateway-server-4.1.6-sources.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.cloud.gateway.route.CachingRouteLocator" memberName="routes" />
+        <PinnedItemInfo parentTag="org.springframework.web.server.adapter.DefaultServerWebExchange" memberName="response" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
