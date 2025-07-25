@@ -1,5 +1,6 @@
 package cn.rtt.scg.flux.example;
 
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import reactor.core.scheduler.Schedulers;
@@ -16,7 +17,10 @@ public class FluxTest {
 
     public static void main(String[] args) {
 
-        test2();
+//        test2();
+        BCryptPasswordEncoder encoder = new BCryptPasswordEncoder(12);
+        String encode = encoder.encode("123456");
+        System.out.println(encode);
     }
 
     public static void test0() {

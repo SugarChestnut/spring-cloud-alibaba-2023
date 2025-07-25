@@ -11,7 +11,7 @@ import org.springframework.security.config.annotation.web.reactive.EnableWebFlux
  */
 @SpringBootApplication
 @EnableDiscoveryClient
-@EnableWebFluxSecurity
+//@EnableWebFluxSecurity
 public class GatewayFluxApplication {
 
     public static void main(String[] args) {

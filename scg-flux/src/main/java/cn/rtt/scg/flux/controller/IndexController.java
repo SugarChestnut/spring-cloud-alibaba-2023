@@ -2,17 +2,18 @@ package cn.rtt.scg.flux.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import reactor.core.publisher.Mono;
 
 /**
  * @author rtt
- * @date 2025/7/1 15:27
+ * @date 2025/7/18 09:32
  */
 @RestController
-@RequestMapping("/actuator")
-public class ActuatorController {
+@RequestMapping("/index")
+public class IndexController {
 
-    @RequestMapping
-    public String actuator() {
-        return "ok";
+    @RequestMapping("/test")
+    public Mono<String> test() {
+        return Mono.just("Ok");
     }
 }
